@@ -12,10 +12,10 @@ This repository contains the tasks completed as part of the CODSOFT Artificial I
 
 ### Task 2 - Face Detection
 
--Developed a real-time face detection system using OpenCV.
+- Developed a real-time face detection system using OpenCV.
 
--Implemented Haar Cascade Classifier for face detection.
+- Implemented Haar Cascade Classifier for face detection.
 
--Detected faces through webcam feed.
+- Detected faces through webcam feed.
 
--Displayed bounding boxes around detected faces.
+- Displayed bounding boxes around detected faces.
