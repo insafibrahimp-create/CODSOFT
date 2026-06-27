@@ -19,3 +19,10 @@ This repository contains the tasks completed as part of the CODSOFT Artificial I
 - Detected faces through webcam feed.
 
 - Displayed bounding boxes around detected faces.
+
+### Task 3 - Tic-Tac-Toe AI
+
+- Developed an AI-powered Tic-Tac-Toe game using Python.
+- Implemented the Minimax algorithm for optimal AI decision-making.
+- Created a Human vs AI command-line game.
+- Included win, lose, and draw detection.
