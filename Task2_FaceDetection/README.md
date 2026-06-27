@@ -1,36 +1,36 @@
-Task 2 - Face Detection
-Description
+# Task 2 - Face Detection
 
-This project is a real-time face detection system developed using Python and OpenCV. 
-
+## Description
+This project is a real-time face detection system developed using Python and OpenCV.
 The application uses the Haar Cascade Classifier to detect human faces through a webcam and draws bounding boxes around the detected faces.
 
-Features
+## Features
 
---> Real-time face detection
+* Real-time face detection
+* Webcam integration
+* Face localization using the Haar Cascade Classifier
+* Bounding boxes around detected faces
+* Simple and efficient implementation
 
---> Webcam integration
+## Technologies Used
 
---> Face localization using Haar Cascade Classifier
+* Python
+* OpenCV
 
---> Bounding boxes around detected faces
+## How to Run
 
---> Simple and efficient implementation
+1. Install the required library:
 
-Technologies Used
-
-Python
-
-OpenCV
-
-How to Run
-
--->Install the required library:
-
+```bash
 pip install opencv-python
+```
 
--->Run the program:
+2. Run the program:
 
+```bash
 python face_detection.py
+```
 
-The webcam will open and detect faces in real time.
+3. The webcam will open and detect faces in real time.
+
+
